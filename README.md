@@ -4,13 +4,16 @@ This project is a command-line based MP3 Tag Reader and Editor written in C. It 
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
+
+```
 Delna MP3 Tag/
-├── main.c      # Entry point — argument parsing and CLI routing
-├── view.c      # Tag viewer — reads and displays ID3v2 frames
-├── edit.c      # Tag editor — rewrites MP3 with updated tag values
-├── mp3.h       # Header file — function declarations
-└── a.out       # Compiled binary (Linux)
+│
+├── main.c   # Entry point — argument parsing and CLI routing
+├── view.c   # Tag viewer — reads and displays ID3v2 frames
+├── edit.c   # Tag editor — rewrites MP3 with updated tag values
+├── mp3.h    # Header file — function declarations
+└── a.out    # Compiled binary 
 
 ---
 
