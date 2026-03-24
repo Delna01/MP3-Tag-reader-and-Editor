@@ -1,5 +1,5 @@
 
-# 🎵 MP3 Tag Editor (C Project)
+# 🎵 MP3 Tag Reader and Editor (C Project)
 
 ## 📌 Description
 The MP3 Tag Editor is a C-based application that allows users to view and edit metadata (ID3 tags) of MP3 files.  
